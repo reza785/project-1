@@ -1,0 +1,49 @@
+[33mcommit 5c9a47eaa79e797893373c32bc250c6f5cf6026e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 33353c9 e8730d8
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Mon Nov 29 09:18:20 2021 +0330
+
+    Merge branch 'test-3'
+
+[33mcommit e8730d8398d685e6e7a23b98afe45c0d4e223a2a[m[33m ([m[1;32mtest-3[m[33m)[m
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Mon Nov 29 09:11:10 2021 +0330
+
+    add padding to the body
+
+[33mcommit 33353c9a9343fec5ec345d5f6fdab446be0b72e4[m
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Mon Nov 29 09:08:03 2021 +0330
+
+    add margin to the body
+
+[33mcommit f052548c75384385bf1c469b4f19a28d32327dad[m
+Merge: 6ade2fe aad9904
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Sun Nov 28 17:40:02 2021 +0330
+
+    Merge branch 'test-2'
+
+[33mcommit aad99049abefc6370a7ff44c3d76b8a6fd15d854[m[33m ([m[1;32mtest-2[m[33m)[m
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Sun Nov 28 17:28:19 2021 +0330
+
+    add test-2 file
+
+[33mcommit 6ade2fef141f110039cc7e471dd94ede308f3c76[m[33m ([m[1;32mtest-1[m[33m)[m
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Sun Nov 28 17:24:04 2021 +0330
+
+    add test-1 file
+
+[33mcommit 6e4f75c4126f22962acecbb1edd56bf1f8b7487d[m
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Sun Nov 28 16:56:14 2021 +0330
+
+    add title to the index file
+
+[33mcommit 479c4ab5e03597f35373abe00957b4ce60a04045[m
+Author: bendarvand <bendarvand.mohammad@gmail.com>
+Date:   Sun Nov 28 10:29:58 2021 +0330
+
+    first commit for test
